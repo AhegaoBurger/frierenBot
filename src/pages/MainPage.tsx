@@ -1,5 +1,5 @@
 // src/tonICP_frontend/src/pages/MainPage.jsx
-import { Button } from '@/components/ui/button'
+// import { Button } from '@/components/ui/button'
 import { Page, Section, Cell, Switch } from '@twa-dev/mark42'
 
 export default function MainPage() {
